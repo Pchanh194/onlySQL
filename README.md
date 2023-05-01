@@ -1,2 +1,2 @@
 # onlySQL
-onlySQL architechture 
+onlySQL architecture 
